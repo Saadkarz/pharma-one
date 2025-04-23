@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>se7ati.pharma</groupId>
-	<artifactId>PharmAlert</artifactId>
+	<artifactId>Backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PharmAlert</name>
 	<description>Backend</description>
